@@ -1,0 +1,14 @@
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.AssemblyInfoInputs.cache
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.AssemblyInfo.cs
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.csproj.CoreCompileInputs.cache
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024.deps.json
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024.runtimeconfig.json
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024.dll
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024.pdb
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.dll
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/refint/AdventOfCode2024.dll
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.pdb
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.genruntimeconfig.cache
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/ref/AdventOfCode2024.dll
