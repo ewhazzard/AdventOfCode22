@@ -12,3 +12,4 @@
 /Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.pdb
 /Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.genruntimeconfig.cache
 /Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/ref/AdventOfCode2024.dll
+/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/obj/Debug/net9.0/AdventOfCode2024.sourcelink.json
