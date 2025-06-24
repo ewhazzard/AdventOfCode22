@@ -28,7 +28,7 @@ public class Day04 {
     public static int PartOne(String inputText){
         int NumberOfXmasFound = 0;
         Console.WriteLine(inputText);
-        return sum;
+        return NumberOfXmasFound;
     }
 
     public static int PartTwo(String inputText){

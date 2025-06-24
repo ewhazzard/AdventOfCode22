@@ -25,6 +25,7 @@ namespace AdventOfCode24 {
                 case "4":
                     var day4 = new Day04();
                     Console.WriteLine(day4.GetResults());
+                    break;
                 default:
                     Console.WriteLine("Not Found");
                     break;

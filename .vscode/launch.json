@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "/Users/evanhazzard/AdventOfCode2024/AdventOfCode2024/bin/Debug/net9.0/AdventOfCode2024.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
+  
